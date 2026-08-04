@@ -1,0 +1,1 @@
+ami_prefix = "packer-aws-redis-var-file-auto"
